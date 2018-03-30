@@ -9,6 +9,14 @@
 #include <opencv2/core/core.hpp>
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/imgproc/imgproc.hpp>
+#include <string>
+#include <vector>
+#include <algorithm>
+#include <iterator>
+#include <sys/types.h>
+#include <dirent.h>
+#include <fstream>
+#include <sstream>
 
 #include "cudaImage.h"
 #include "cudaSift.h"
@@ -19,13 +27,47 @@ void MatchAll(SiftData &siftData1, SiftData &siftData2, float *homography);
 
 double ScaleUp(CudaImage &res, CudaImage &src);
 
+typedef std::vector<std::string> stringvec;
+
+///////////////////////////////////////////////////////////////////////////////
+////// Float to String
+///////////////////////////////////////////////////////////////////////////////
+
+std::string Convert (float number){
+    std::ostringstream buff;
+    buff<<number;
+    return buff.str();   
+}
+
+///////////////////////////////////////////////////////////////////////////////
+//// Write to file
+///////////////////////////////////////////////////////////////////////////////
+
+void writeToFile(SiftData siftData,const char* imageName){
+	std::ofstream ofile(imageName);
+        std::cout << siftData.numPts << std::endl;
+        for ( int i = 0; i < siftData.numPts; i++ ) {
+                std::string outline = "";
+		for ( int j = 0; j < 128; j++ ) {
+                       // std::cout << siftData.h_data[i].data[j] << " ";
+                       outline += Convert(siftData.h_data[i].data[j]) + " ";
+                }
+		ofile << outline + "\n";
+        }
+	ofile.close();
+}
+
 ///////////////////////////////////////////////////////////////////////////////
 // Sift Descriptor Extraction given parameters
 ///////////////////////////////////////////////////////////////////////////////
 #define MAXLENGTH 32768
 
-void ExtractSiftDescriptors (const char * imageName, float blurFactor, float threshold, int deviceNumber)
+void ExtractSiftDescriptors (const char * name, const char * prefix,  float blurFactor, float threshold, int deviceNumber, bool write, bool debug)
 {
+  
+  std::string bar = "/";
+  const char* imageName = (std::string(prefix) + bar  + name).c_str();
+  
   cv::Mat img;
   cv::imread(imageName).convertTo(img, CV_32FC1);
 
@@ -39,21 +81,47 @@ void ExtractSiftDescriptors (const char * imageName, float blurFactor, float thr
   SiftData siftData;
   InitSiftData(siftData, MAXLENGTH, true, true);
 
-  ExtractSift(siftData, imgCuda, 5, blurFactor, threshold, 0.0f, false);
-  std::cout << siftData.numPts << std::endl;
-  for ( int i = 0; i < siftData.numPts; i++ ) {
-    for ( int j = 0; j < 128; j++ ) {
-      //std::cout << siftData.h_data[i].data[j] << " ";
-      int lo = 0;
-    }
-    std::cout << std::endl;
-  }
+  ExtractSift(siftData, imgCuda, 5, blurFactor, threshold, 0.0f, !debug);
+  
+  std::string sft = "Sift/";
+  std::string tx = ".txt";
+  const char * fname = (std::string(prefix) + sft + name + tx).c_str(); 
 
-  std::cout << std::endl;
+  writeToFile(siftData,fname);
+
+  //std::cout << std::endl;
 
   std::cout << "-------------------------------------------------------------" << std::endl;
   FreeSiftData(siftData);
 
+}
+
+
+//Extract directory names
+void read_directory(const std::string& name, stringvec& v)
+{
+    DIR* dirp = opendir(name.c_str());
+    struct dirent * dp;
+    while ((dp = readdir(dirp)) != NULL) {
+        v.push_back(dp->d_name);
+    }
+    closedir(dirp);
+}
+
+//Processes sifts given directory name
+void processSifts(const char * directory){
+	stringvec v;
+  read_directory(directory, v);
+  //std::copy(v.begin(), v.end(),
+          //std::ostream_iterator<std::string>(std::cout, "\n"));
+  
+  for(std::size_t i = 0; i < v.size(); i++){
+     std::cout << v[i] << std::endl;
+     if(v[i] != "." && v[i] != ".."){
+         ExtractSiftDescriptors(v[i].c_str(), directory, 1.0f, -1.0f, 0, true, true);
+     }
+  }
+                                                      	
 }
 
 /////////////////////////////////////////////////////////////////////////////////
@@ -63,7 +131,10 @@ void ExtractSiftDescriptors (const char * imageName, float blurFactor, float thr
 int main(int argc, char **argv) 
 {   
   
-  ExtractSiftDescriptors("../../input/query/0.png", 1.0f, -1.0f, 0); 
+  processSifts("../../input/query");
+  processSifts("../../input/database");
+
+   
   /*cv::Mat img007; 
   cv::imread("input/query/0.png").convertTo(img007, CV_32FC1);
 
