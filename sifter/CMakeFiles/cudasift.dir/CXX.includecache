@@ -12,6 +12,16 @@
 cudaImage.h
 /uufs/chpc.utah.edu/common/home/u0867999/BoWLocalizationCuda/sifter/CudaSift/cudaImage.h
 
+/uufs/chpc.utah.edu/common/home/u0867999/BoWLocalizationCuda/sifter/CudaSift/geomFuncs.cpp
+iostream
+-
+cmath
+-
+opencv2/core/core.hpp
+-
+cudaSift.h
+/uufs/chpc.utah.edu/common/home/u0867999/BoWLocalizationCuda/sifter/CudaSift/cudaSift.h
+
 /uufs/chpc.utah.edu/common/home/u0867999/BoWLocalizationCuda/sifter/CudaSift/mainSift.cpp
 iostream
 -

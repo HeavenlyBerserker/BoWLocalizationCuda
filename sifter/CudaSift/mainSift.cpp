@@ -57,12 +57,29 @@ void writeToFile(SiftData siftData,const char* imageName){
 	ofile.close();
 }
 
+
+///////////////////////////////////////////////////////////////////////////////
+////// Append to file
+///////////////////////////////////////////////////////////////////////////////
+void appendToFile(SiftData siftData, const char * outname){
+	std::ofstream ofile;
+	ofile.open(outname, std::ofstream::out | std::ofstream::app);
+	for ( int i = 0; i < siftData.numPts; i++ ) {
+                std::string outline = "";
+                for ( int j = 0; j < 128; j++ ) {
+			outline += Convert(siftData.h_data[i].data[j]) + " ";
+                }
+                ofile << outline + "\n";
+        }
+	ofile.close();
+}
+
 ///////////////////////////////////////////////////////////////////////////////
 // Sift Descriptor Extraction given parameters
 ///////////////////////////////////////////////////////////////////////////////
 #define MAXLENGTH 32768
 
-void ExtractSiftDescriptors (const char * name, const char * prefix,  float blurFactor, float threshold, int deviceNumber, bool write, bool debug)
+void ExtractSiftDescriptors (const char * name, const char * prefix,  float blurFactor, float threshold, int deviceNumber, bool write, bool debug, const char * outname, int quer)
 {
   
   std::string bar = "/";
@@ -88,6 +105,8 @@ void ExtractSiftDescriptors (const char * name, const char * prefix,  float blur
   const char * fname = (std::string(prefix) + sft + name + tx).c_str(); 
 
   writeToFile(siftData,fname);
+  if(quer)
+  	appendToFile(siftData, outname);
 
   //std::cout << std::endl;
 
@@ -109,18 +128,20 @@ void read_directory(const std::string& name, stringvec& v)
 }
 
 //Processes sifts given directory name
-void processSifts(const char * directory){
+void processSifts(const char * directory, int quer){
 	stringvec v;
   read_directory(directory, v);
   //std::copy(v.begin(), v.end(),
           //std::ostream_iterator<std::string>(std::cout, "\n"));
-  
+ 
+   
+ 
   for(std::size_t i = 0; i < v.size(); i++){
      std::cout << v[i] << std::endl;
      if(v[i] != "." && v[i] != ".."){
-         ExtractSiftDescriptors(v[i].c_str(), directory, 1.0f, -1.0f, 0, true, true);
+         ExtractSiftDescriptors(v[i].c_str(), directory, 1.0f, -1.0f, 0, true, true, "../../input/querySift/all.txt", quer);
      }
-  }
+  }  
                                                       	
 }
 
@@ -131,8 +152,8 @@ void processSifts(const char * directory){
 int main(int argc, char **argv) 
 {   
   
-  processSifts("../../input/query");
-  processSifts("../../input/database");
+  processSifts("../../input/query", 1);
+  processSifts("../../input/database", 0);
 
    
   /*cv::Mat img007; 

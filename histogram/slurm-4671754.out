@@ -1,0 +1,1276 @@
+stack size              (kbytes, -s) unlimited
+		###########################################
+		#######   Histogram Program   #############
+		###########################################
+
+
+Directory List
+Size: 50
+	Name: ../input/querySift/0.png.txt
+	Name: ../input/querySift/1.png.txt
+	Name: ../input/querySift/10.png.txt
+	Name: ../input/querySift/11.png.txt
+	Name: ../input/querySift/12.png.txt
+	Name: ../input/querySift/13.png.txt
+	Name: ../input/querySift/14.png.txt
+	Name: ../input/querySift/15.png.txt
+	Name: ../input/querySift/16.png.txt
+	Name: ../input/querySift/17.png.txt
+	Name: ../input/querySift/18.png.txt
+	Name: ../input/querySift/19.png.txt
+	Name: ../input/querySift/2.png.txt
+	Name: ../input/querySift/20.png.txt
+	Name: ../input/querySift/21.png.txt
+	Name: ../input/querySift/22.png.txt
+	Name: ../input/querySift/23.png.txt
+	Name: ../input/querySift/24.png.txt
+	Name: ../input/querySift/26.png.txt
+	Name: ../input/querySift/27.png.txt
+	Name: ../input/querySift/28.png.txt
+	Name: ../input/querySift/29.png.txt
+	Name: ../input/querySift/3.png.txt
+	Name: ../input/querySift/30.png.txt
+	Name: ../input/querySift/31.png.txt
+	Name: ../input/querySift/32.png.txt
+	Name: ../input/querySift/33.png.txt
+	Name: ../input/querySift/34.png.txt
+	Name: ../input/querySift/35.png.txt
+	Name: ../input/querySift/36.png.txt
+	Name: ../input/querySift/37.png.txt
+	Name: ../input/querySift/38.png.txt
+	Name: ../input/querySift/39.png.txt
+	Name: ../input/querySift/4.png.txt
+	Name: ../input/querySift/40.png.txt
+	Name: ../input/querySift/41.png.txt
+	Name: ../input/querySift/42.png.txt
+	Name: ../input/querySift/43.png.txt
+	Name: ../input/querySift/46.png.txt
+	Name: ../input/querySift/47.png.txt
+	Name: ../input/querySift/48.png.txt
+	Name: ../input/querySift/49.png.txt
+	Name: ../input/querySift/5.png.txt
+	Name: ../input/querySift/50.png.txt
+	Name: ../input/querySift/51.png.txt
+	Name: ../input/querySift/52.png.txt
+	Name: ../input/querySift/53.png.txt
+	Name: ../input/querySift/6.png.txt
+	Name: ../input/querySift/8.png.txt
+	Name: ../input/querySift/9.png.txt
+
+
+
+Directory List
+Size: 200
+	Name: ../input/databaseSift/0_1.png.txt
+	Name: ../input/databaseSift/0_2.png.txt
+	Name: ../input/databaseSift/0_3.png.txt
+	Name: ../input/databaseSift/0_4.png.txt
+	Name: ../input/databaseSift/1_1.png.txt
+	Name: ../input/databaseSift/1_2.png.txt
+	Name: ../input/databaseSift/1_3.png.txt
+	Name: ../input/databaseSift/1_4.png.txt
+	Name: ../input/databaseSift/10_1.png.txt
+	Name: ../input/databaseSift/10_2.png.txt
+	Name: ../input/databaseSift/10_3.png.txt
+	Name: ../input/databaseSift/10_4.png.txt
+	Name: ../input/databaseSift/11_1.png.txt
+	Name: ../input/databaseSift/11_2.png.txt
+	Name: ../input/databaseSift/11_3.png.txt
+	Name: ../input/databaseSift/11_4.png.txt
+	Name: ../input/databaseSift/12_1.png.txt
+	Name: ../input/databaseSift/12_2.png.txt
+	Name: ../input/databaseSift/12_3.png.txt
+	Name: ../input/databaseSift/12_4.png.txt
+	Name: ../input/databaseSift/13_1.png.txt
+	Name: ../input/databaseSift/13_2.png.txt
+	Name: ../input/databaseSift/13_3.png.txt
+	Name: ../input/databaseSift/13_4.png.txt
+	Name: ../input/databaseSift/14_1.png.txt
+	Name: ../input/databaseSift/14_2.png.txt
+	Name: ../input/databaseSift/14_3.png.txt
+	Name: ../input/databaseSift/14_4.png.txt
+	Name: ../input/databaseSift/15_1.png.txt
+	Name: ../input/databaseSift/15_2.png.txt
+	Name: ../input/databaseSift/15_3.png.txt
+	Name: ../input/databaseSift/15_4.png.txt
+	Name: ../input/databaseSift/16_1.png.txt
+	Name: ../input/databaseSift/16_2.png.txt
+	Name: ../input/databaseSift/16_3.png.txt
+	Name: ../input/databaseSift/16_4.png.txt
+	Name: ../input/databaseSift/17_1.png.txt
+	Name: ../input/databaseSift/17_2.png.txt
+	Name: ../input/databaseSift/17_3.png.txt
+	Name: ../input/databaseSift/17_4.png.txt
+	Name: ../input/databaseSift/18_1.png.txt
+	Name: ../input/databaseSift/18_2.png.txt
+	Name: ../input/databaseSift/18_3.png.txt
+	Name: ../input/databaseSift/18_4.png.txt
+	Name: ../input/databaseSift/19_1.png.txt
+	Name: ../input/databaseSift/19_2.png.txt
+	Name: ../input/databaseSift/19_3.png.txt
+	Name: ../input/databaseSift/19_4.png.txt
+	Name: ../input/databaseSift/2_1.png.txt
+	Name: ../input/databaseSift/2_2.png.txt
+	Name: ../input/databaseSift/2_3.png.txt
+	Name: ../input/databaseSift/2_4.png.txt
+	Name: ../input/databaseSift/20_1.png.txt
+	Name: ../input/databaseSift/20_2.png.txt
+	Name: ../input/databaseSift/20_3.png.txt
+	Name: ../input/databaseSift/20_4.png.txt
+	Name: ../input/databaseSift/21_1.png.txt
+	Name: ../input/databaseSift/21_2.png.txt
+	Name: ../input/databaseSift/21_3.png.txt
+	Name: ../input/databaseSift/21_4.png.txt
+	Name: ../input/databaseSift/22_1.png.txt
+	Name: ../input/databaseSift/22_2.png.txt
+	Name: ../input/databaseSift/22_3.png.txt
+	Name: ../input/databaseSift/22_4.png.txt
+	Name: ../input/databaseSift/23_1.png.txt
+	Name: ../input/databaseSift/23_2.png.txt
+	Name: ../input/databaseSift/23_3.png.txt
+	Name: ../input/databaseSift/23_4.png.txt
+	Name: ../input/databaseSift/24_1.png.txt
+	Name: ../input/databaseSift/24_2.png.txt
+	Name: ../input/databaseSift/24_3.png.txt
+	Name: ../input/databaseSift/24_4.png.txt
+	Name: ../input/databaseSift/26_1.png.txt
+	Name: ../input/databaseSift/26_2.png.txt
+	Name: ../input/databaseSift/26_3.png.txt
+	Name: ../input/databaseSift/26_4.png.txt
+	Name: ../input/databaseSift/27_1.png.txt
+	Name: ../input/databaseSift/27_2.png.txt
+	Name: ../input/databaseSift/27_3.png.txt
+	Name: ../input/databaseSift/27_4.png.txt
+	Name: ../input/databaseSift/28_1.png.txt
+	Name: ../input/databaseSift/28_2.png.txt
+	Name: ../input/databaseSift/28_3.png.txt
+	Name: ../input/databaseSift/28_4.png.txt
+	Name: ../input/databaseSift/29_1.png.txt
+	Name: ../input/databaseSift/29_2.png.txt
+	Name: ../input/databaseSift/29_3.png.txt
+	Name: ../input/databaseSift/29_4.png.txt
+	Name: ../input/databaseSift/3_1.png.txt
+	Name: ../input/databaseSift/3_2.png.txt
+	Name: ../input/databaseSift/3_3.png.txt
+	Name: ../input/databaseSift/3_4.png.txt
+	Name: ../input/databaseSift/30_1.png.txt
+	Name: ../input/databaseSift/30_2.png.txt
+	Name: ../input/databaseSift/30_3.png.txt
+	Name: ../input/databaseSift/30_4.png.txt
+	Name: ../input/databaseSift/31_1.png.txt
+	Name: ../input/databaseSift/31_2.png.txt
+	Name: ../input/databaseSift/31_3.png.txt
+	Name: ../input/databaseSift/31_4.png.txt
+	Name: ../input/databaseSift/32_1.png.txt
+	Name: ../input/databaseSift/32_2.png.txt
+	Name: ../input/databaseSift/32_3.png.txt
+	Name: ../input/databaseSift/32_4.png.txt
+	Name: ../input/databaseSift/33_1.png.txt
+	Name: ../input/databaseSift/33_2.png.txt
+	Name: ../input/databaseSift/33_3.png.txt
+	Name: ../input/databaseSift/33_4.png.txt
+	Name: ../input/databaseSift/34_1.png.txt
+	Name: ../input/databaseSift/34_2.png.txt
+	Name: ../input/databaseSift/34_3.png.txt
+	Name: ../input/databaseSift/34_4.png.txt
+	Name: ../input/databaseSift/35_1.png.txt
+	Name: ../input/databaseSift/35_2.png.txt
+	Name: ../input/databaseSift/35_3.png.txt
+	Name: ../input/databaseSift/35_4.png.txt
+	Name: ../input/databaseSift/36_1.png.txt
+	Name: ../input/databaseSift/36_2.png.txt
+	Name: ../input/databaseSift/36_3.png.txt
+	Name: ../input/databaseSift/36_4.png.txt
+	Name: ../input/databaseSift/37_1.png.txt
+	Name: ../input/databaseSift/37_2.png.txt
+	Name: ../input/databaseSift/37_3.png.txt
+	Name: ../input/databaseSift/37_4.png.txt
+	Name: ../input/databaseSift/38_1.png.txt
+	Name: ../input/databaseSift/38_2.png.txt
+	Name: ../input/databaseSift/38_3.png.txt
+	Name: ../input/databaseSift/38_4.png.txt
+	Name: ../input/databaseSift/39_1.png.txt
+	Name: ../input/databaseSift/39_2.png.txt
+	Name: ../input/databaseSift/39_3.png.txt
+	Name: ../input/databaseSift/39_4.png.txt
+	Name: ../input/databaseSift/4_1.png.txt
+	Name: ../input/databaseSift/4_2.png.txt
+	Name: ../input/databaseSift/4_3.png.txt
+	Name: ../input/databaseSift/4_4.png.txt
+	Name: ../input/databaseSift/40_1.png.txt
+	Name: ../input/databaseSift/40_2.png.txt
+	Name: ../input/databaseSift/40_3.png.txt
+	Name: ../input/databaseSift/40_4.png.txt
+	Name: ../input/databaseSift/41_1.png.txt
+	Name: ../input/databaseSift/41_2.png.txt
+	Name: ../input/databaseSift/41_3.png.txt
+	Name: ../input/databaseSift/41_4.png.txt
+	Name: ../input/databaseSift/42_1.png.txt
+	Name: ../input/databaseSift/42_2.png.txt
+	Name: ../input/databaseSift/42_3.png.txt
+	Name: ../input/databaseSift/42_4.png.txt
+	Name: ../input/databaseSift/43_1.png.txt
+	Name: ../input/databaseSift/43_2.png.txt
+	Name: ../input/databaseSift/43_3.png.txt
+	Name: ../input/databaseSift/43_4.png.txt
+	Name: ../input/databaseSift/46_1.png.txt
+	Name: ../input/databaseSift/46_2.png.txt
+	Name: ../input/databaseSift/46_3.png.txt
+	Name: ../input/databaseSift/46_4.png.txt
+	Name: ../input/databaseSift/47_1.png.txt
+	Name: ../input/databaseSift/47_2.png.txt
+	Name: ../input/databaseSift/47_3.png.txt
+	Name: ../input/databaseSift/47_4.png.txt
+	Name: ../input/databaseSift/48_1.png.txt
+	Name: ../input/databaseSift/48_2.png.txt
+	Name: ../input/databaseSift/48_3.png.txt
+	Name: ../input/databaseSift/48_4.png.txt
+	Name: ../input/databaseSift/49_1.png.txt
+	Name: ../input/databaseSift/49_2.png.txt
+	Name: ../input/databaseSift/49_3.png.txt
+	Name: ../input/databaseSift/49_4.png.txt
+	Name: ../input/databaseSift/5_1.png.txt
+	Name: ../input/databaseSift/5_2.png.txt
+	Name: ../input/databaseSift/5_3.png.txt
+	Name: ../input/databaseSift/5_4.png.txt
+	Name: ../input/databaseSift/50_1.png.txt
+	Name: ../input/databaseSift/50_2.png.txt
+	Name: ../input/databaseSift/50_3.png.txt
+	Name: ../input/databaseSift/50_4.png.txt
+	Name: ../input/databaseSift/51_1.png.txt
+	Name: ../input/databaseSift/51_2.png.txt
+	Name: ../input/databaseSift/51_3.png.txt
+	Name: ../input/databaseSift/51_4.png.txt
+	Name: ../input/databaseSift/52_1.png.txt
+	Name: ../input/databaseSift/52_2.png.txt
+	Name: ../input/databaseSift/52_3.png.txt
+	Name: ../input/databaseSift/52_4.png.txt
+	Name: ../input/databaseSift/53_1.png.txt
+	Name: ../input/databaseSift/53_2.png.txt
+	Name: ../input/databaseSift/53_3.png.txt
+	Name: ../input/databaseSift/53_4.png.txt
+	Name: ../input/databaseSift/6_1.png.txt
+	Name: ../input/databaseSift/6_2.png.txt
+	Name: ../input/databaseSift/6_3.png.txt
+	Name: ../input/databaseSift/6_4.png.txt
+	Name: ../input/databaseSift/8_1.png.txt
+	Name: ../input/databaseSift/8_2.png.txt
+	Name: ../input/databaseSift/8_3.png.txt
+	Name: ../input/databaseSift/8_4.png.txt
+	Name: ../input/databaseSift/9_1.png.txt
+	Name: ../input/databaseSift/9_2.png.txt
+	Name: ../input/databaseSift/9_3.png.txt
+	Name: ../input/databaseSift/9_4.png.txt
+
+
+-----Reading-Sift-----
+Filename: ../input/querySift/1.png.txt
+Sift Number: 2247
+----------------------
+----------------------
+Num of Sifts: 2247
+TotalSize: 287616 floats
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/0.png.txt
+Sift Number: 5189
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/1.png.txt
+Sift Number: 2247
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/10.png.txt
+Sift Number: 1830
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/11.png.txt
+Sift Number: 4280
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/12.png.txt
+Sift Number: 5864
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/13.png.txt
+Sift Number: 2891
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/14.png.txt
+Sift Number: 1430
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/15.png.txt
+Sift Number: 1939
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/16.png.txt
+Sift Number: 2036
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/17.png.txt
+Sift Number: 1798
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/18.png.txt
+Sift Number: 2409
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/19.png.txt
+Sift Number: 5290
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/2.png.txt
+Sift Number: 1921
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/20.png.txt
+Sift Number: 2108
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/21.png.txt
+Sift Number: 2650
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/22.png.txt
+Sift Number: 3475
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/23.png.txt
+Sift Number: 3663
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/24.png.txt
+Sift Number: 3926
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/26.png.txt
+Sift Number: 2286
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/27.png.txt
+Sift Number: 3773
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/28.png.txt
+Sift Number: 4594
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/29.png.txt
+Sift Number: 8198
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/3.png.txt
+Sift Number: 1807
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/30.png.txt
+Sift Number: 8948
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/31.png.txt
+Sift Number: 7501
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/32.png.txt
+Sift Number: 8538
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/33.png.txt
+Sift Number: 8984
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/34.png.txt
+Sift Number: 6240
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/35.png.txt
+Sift Number: 8364
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/36.png.txt
+Sift Number: 5565
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/37.png.txt
+Sift Number: 8053
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/38.png.txt
+Sift Number: 7665
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/39.png.txt
+Sift Number: 6213
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/4.png.txt
+Sift Number: 1576
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/40.png.txt
+Sift Number: 6251
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/41.png.txt
+Sift Number: 6279
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/42.png.txt
+Sift Number: 6245
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/43.png.txt
+Sift Number: 6293
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/46.png.txt
+Sift Number: 5725
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/47.png.txt
+Sift Number: 8421
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/48.png.txt
+Sift Number: 6350
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/49.png.txt
+Sift Number: 7030
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/5.png.txt
+Sift Number: 1917
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/50.png.txt
+Sift Number: 4589
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/51.png.txt
+Sift Number: 7326
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/52.png.txt
+Sift Number: 5744
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/53.png.txt
+Sift Number: 6436
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/6.png.txt
+Sift Number: 2066
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/8.png.txt
+Sift Number: 2587
+----------------------
+-----Reading-Sift-----
+Filename: ../input/querySift/9.png.txt
+Sift Number: 1456
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/0_1.png.txt
+Sift Number: 5827
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/0_2.png.txt
+Sift Number: 3707
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/0_3.png.txt
+Sift Number: 5646
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/0_4.png.txt
+Sift Number: 6334
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/1_1.png.txt
+Sift Number: 2121
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/1_2.png.txt
+Sift Number: 2201
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/1_3.png.txt
+Sift Number: 2458
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/1_4.png.txt
+Sift Number: 2307
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/10_1.png.txt
+Sift Number: 1549
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/10_2.png.txt
+Sift Number: 1847
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/10_3.png.txt
+Sift Number: 1834
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/10_4.png.txt
+Sift Number: 1621
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/11_1.png.txt
+Sift Number: 3029
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/11_2.png.txt
+Sift Number: 3870
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/11_3.png.txt
+Sift Number: 2802
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/11_4.png.txt
+Sift Number: 4655
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/12_1.png.txt
+Sift Number: 5208
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/12_2.png.txt
+Sift Number: 5092
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/12_3.png.txt
+Sift Number: 5519
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/12_4.png.txt
+Sift Number: 5295
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/13_1.png.txt
+Sift Number: 2230
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/13_2.png.txt
+Sift Number: 2842
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/13_3.png.txt
+Sift Number: 2772
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/13_4.png.txt
+Sift Number: 3009
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/14_1.png.txt
+Sift Number: 1527
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/14_2.png.txt
+Sift Number: 1541
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/14_3.png.txt
+Sift Number: 1539
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/14_4.png.txt
+Sift Number: 1541
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/15_1.png.txt
+Sift Number: 1539
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/15_2.png.txt
+Sift Number: 4260
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/15_3.png.txt
+Sift Number: 2229
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/15_4.png.txt
+Sift Number: 1501
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/16_1.png.txt
+Sift Number: 2041
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/16_2.png.txt
+Sift Number: 1898
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/16_3.png.txt
+Sift Number: 1792
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/16_4.png.txt
+Sift Number: 1960
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/17_1.png.txt
+Sift Number: 1635
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/17_2.png.txt
+Sift Number: 2338
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/17_3.png.txt
+Sift Number: 1450
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/17_4.png.txt
+Sift Number: 1779
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/18_1.png.txt
+Sift Number: 1825
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/18_2.png.txt
+Sift Number: 3893
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/18_3.png.txt
+Sift Number: 2261
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/18_4.png.txt
+Sift Number: 1726
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/19_1.png.txt
+Sift Number: 5017
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/19_2.png.txt
+Sift Number: 1722
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/19_3.png.txt
+Sift Number: 1714
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/19_4.png.txt
+Sift Number: 2385
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/2_1.png.txt
+Sift Number: 2145
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/2_2.png.txt
+Sift Number: 2298
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/2_3.png.txt
+Sift Number: 1879
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/2_4.png.txt
+Sift Number: 2252
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/20_1.png.txt
+Sift Number: 1271
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/20_2.png.txt
+Sift Number: 1224
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/20_3.png.txt
+Sift Number: 1443
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/20_4.png.txt
+Sift Number: 2241
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/21_1.png.txt
+Sift Number: 2629
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/21_2.png.txt
+Sift Number: 2667
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/21_3.png.txt
+Sift Number: 2656
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/21_4.png.txt
+Sift Number: 2667
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/22_1.png.txt
+Sift Number: 2865
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/22_2.png.txt
+Sift Number: 2927
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/22_3.png.txt
+Sift Number: 2820
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/22_4.png.txt
+Sift Number: 2758
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/23_1.png.txt
+Sift Number: 2955
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/23_2.png.txt
+Sift Number: 2931
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/23_3.png.txt
+Sift Number: 2902
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/23_4.png.txt
+Sift Number: 2870
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/24_1.png.txt
+Sift Number: 3008
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/24_2.png.txt
+Sift Number: 2769
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/24_3.png.txt
+Sift Number: 3068
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/24_4.png.txt
+Sift Number: 2893
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/26_1.png.txt
+Sift Number: 2240
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/26_2.png.txt
+Sift Number: 2212
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/26_3.png.txt
+Sift Number: 2221
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/26_4.png.txt
+Sift Number: 2658
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/27_1.png.txt
+Sift Number: 3197
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/27_2.png.txt
+Sift Number: 3521
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/27_3.png.txt
+Sift Number: 3640
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/27_4.png.txt
+Sift Number: 3304
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/28_1.png.txt
+Sift Number: 3987
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/28_2.png.txt
+Sift Number: 5665
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/28_3.png.txt
+Sift Number: 4284
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/28_4.png.txt
+Sift Number: 4937
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/29_1.png.txt
+Sift Number: 6296
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/29_2.png.txt
+Sift Number: 7452
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/29_3.png.txt
+Sift Number: 6687
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/29_4.png.txt
+Sift Number: 6452
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/3_1.png.txt
+Sift Number: 1569
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/3_2.png.txt
+Sift Number: 1590
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/3_3.png.txt
+Sift Number: 1660
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/3_4.png.txt
+Sift Number: 1795
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/30_1.png.txt
+Sift Number: 8016
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/30_2.png.txt
+Sift Number: 8517
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/30_3.png.txt
+Sift Number: 8112
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/30_4.png.txt
+Sift Number: 7109
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/31_1.png.txt
+Sift Number: 7648
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/31_2.png.txt
+Sift Number: 7521
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/31_3.png.txt
+Sift Number: 7248
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/31_4.png.txt
+Sift Number: 7333
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/32_1.png.txt
+Sift Number: 7307
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/32_2.png.txt
+Sift Number: 8340
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/32_3.png.txt
+Sift Number: 7344
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/32_4.png.txt
+Sift Number: 8059
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/33_1.png.txt
+Sift Number: 7588
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/33_2.png.txt
+Sift Number: 7472
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/33_3.png.txt
+Sift Number: 7580
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/33_4.png.txt
+Sift Number: 7560
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/34_1.png.txt
+Sift Number: 5170
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/34_2.png.txt
+Sift Number: 5111
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/34_3.png.txt
+Sift Number: 4962
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/34_4.png.txt
+Sift Number: 7433
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/35_1.png.txt
+Sift Number: 7870
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/35_2.png.txt
+Sift Number: 7629
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/35_3.png.txt
+Sift Number: 7522
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/35_4.png.txt
+Sift Number: 7822
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/36_1.png.txt
+Sift Number: 5502
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/36_2.png.txt
+Sift Number: 5525
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/36_3.png.txt
+Sift Number: 5591
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/36_4.png.txt
+Sift Number: 5486
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/37_1.png.txt
+Sift Number: 6529
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/37_2.png.txt
+Sift Number: 6233
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/37_3.png.txt
+Sift Number: 6874
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/37_4.png.txt
+Sift Number: 6423
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/38_1.png.txt
+Sift Number: 7028
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/38_2.png.txt
+Sift Number: 6472
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/38_3.png.txt
+Sift Number: 6501
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/38_4.png.txt
+Sift Number: 7165
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/39_1.png.txt
+Sift Number: 5600
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/39_2.png.txt
+Sift Number: 5601
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/39_3.png.txt
+Sift Number: 5397
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/39_4.png.txt
+Sift Number: 4378
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/4_1.png.txt
+Sift Number: 1659
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/4_2.png.txt
+Sift Number: 1337
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/4_3.png.txt
+Sift Number: 1394
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/4_4.png.txt
+Sift Number: 1429
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/40_1.png.txt
+Sift Number: 5715
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/40_2.png.txt
+Sift Number: 5580
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/40_3.png.txt
+Sift Number: 5732
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/40_4.png.txt
+Sift Number: 5870
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/41_1.png.txt
+Sift Number: 5176
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/41_2.png.txt
+Sift Number: 5077
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/41_3.png.txt
+Sift Number: 5582
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/41_4.png.txt
+Sift Number: 5708
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/42_1.png.txt
+Sift Number: 4877
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/42_2.png.txt
+Sift Number: 5680
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/42_3.png.txt
+Sift Number: 5732
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/42_4.png.txt
+Sift Number: 5801
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/43_1.png.txt
+Sift Number: 4676
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/43_2.png.txt
+Sift Number: 5265
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/43_3.png.txt
+Sift Number: 5825
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/43_4.png.txt
+Sift Number: 5591
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/46_1.png.txt
+Sift Number: 4200
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/46_2.png.txt
+Sift Number: 5469
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/46_3.png.txt
+Sift Number: 4043
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/46_4.png.txt
+Sift Number: 4249
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/47_1.png.txt
+Sift Number: 6147
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/47_2.png.txt
+Sift Number: 6471
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/47_3.png.txt
+Sift Number: 6556
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/47_4.png.txt
+Sift Number: 6512
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/48_1.png.txt
+Sift Number: 5622
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/48_2.png.txt
+Sift Number: 6039
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/48_3.png.txt
+Sift Number: 5726
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/48_4.png.txt
+Sift Number: 5457
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/49_1.png.txt
+Sift Number: 6443
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/49_2.png.txt
+Sift Number: 6622
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/49_3.png.txt
+Sift Number: 6400
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/49_4.png.txt
+Sift Number: 6439
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/5_1.png.txt
+Sift Number: 1762
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/5_2.png.txt
+Sift Number: 1693
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/5_3.png.txt
+Sift Number: 1771
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/5_4.png.txt
+Sift Number: 1632
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/50_1.png.txt
+Sift Number: 4163
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/50_2.png.txt
+Sift Number: 6221
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/50_3.png.txt
+Sift Number: 4498
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/50_4.png.txt
+Sift Number: 6742
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/51_1.png.txt
+Sift Number: 5619
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/51_2.png.txt
+Sift Number: 5079
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/51_3.png.txt
+Sift Number: 5397
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/51_4.png.txt
+Sift Number: 5887
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/52_1.png.txt
+Sift Number: 4467
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/52_2.png.txt
+Sift Number: 3984
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/52_3.png.txt
+Sift Number: 3761
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/52_4.png.txt
+Sift Number: 3545
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/53_1.png.txt
+Sift Number: 4777
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/53_2.png.txt
+Sift Number: 4949
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/53_3.png.txt
+Sift Number: 5018
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/53_4.png.txt
+Sift Number: 4973
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/6_1.png.txt
+Sift Number: 1692
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/6_2.png.txt
+Sift Number: 1871
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/6_3.png.txt
+Sift Number: 1737
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/6_4.png.txt
+Sift Number: 1538
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/8_1.png.txt
+Sift Number: 2211
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/8_2.png.txt
+Sift Number: 2301
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/8_3.png.txt
+Sift Number: 2286
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/8_4.png.txt
+Sift Number: 2251
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/9_1.png.txt
+Sift Number: 1369
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/9_2.png.txt
+Sift Number: 1241
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/9_3.png.txt
+Sift Number: 1446
+----------------------
+-----Reading-Sift-----
+Filename: ../input/databaseSift/9_4.png.txt
+Sift Number: 1243
+----------------------
+0.png.txt
+
+Done!

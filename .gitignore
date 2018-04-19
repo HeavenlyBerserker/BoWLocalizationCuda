@@ -2,3 +2,10 @@
 *.jpeg
 *.png.txt
 opencv/
+sifter/
+debug.txt
+main.cpp
+cub-1.8.0/
+kmeans/
+kmeans_peterG/
+input/
